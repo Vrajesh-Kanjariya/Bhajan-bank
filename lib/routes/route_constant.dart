@@ -1,0 +1,44 @@
+class RouteConstant {
+  static const String initial = '/';
+  static const String noInternet = '/noInternet';
+  static const String splash = '/splash';
+  static const String signIn = '/signIn';
+  static const String otp = '/otp';
+  static const String profile = '/profile';
+  static const String home = '/home';
+  static const String niyam = '/niyam';
+  static const String member = '/member';
+  static const String sadgranthAnusthan = '/sadgranthAnusthan';
+  static const String mukhPath = '/mukhPath';
+  static const String sadgranthVanchan = '/sadgranthVanchan';
+  static const String nityaBhajan = '/nityaBhajan';
+  static const String chestaNiyam = '/chestaNiyam';
+  static const String information = '/information';
+  static const String editSadgranthAnusthan = '/editSadgranthAnusthan';
+  static const String announcement = '/announcement';
+  static const String selectedNityaBhajan = '/selectedNityaBhajan';
+  static const String sadgranthAnushthanPath = '/sadgranthAnushthanPath';
+  static const String selectedMukhaPath = '/selectedMukhaPath';
+  static const String selectedSadagranthaVancana = '/selectedSadagranthaVancana';
+  static const String selectedNiyamChesta = '/selectedNiyamChesta';
+  static const String photoGallery = '/photoGallery';
+  static const String mantraJap = '/mantraJap';
+  static const String vanduPath = '/vanduPath';
+  static const String dailyDarshan = '/dailyDarshan';
+  static const String topUser = '/topUser';
+  static const String sadgranthAnusthanApplication = '/sadgranthAnusthanApplication';
+  static const String sadgranthAnusthanBook = '/sadgranthAnusthanBook';
+  static const String mukhPathNiyam = '/mukhPathNiyam';
+  static const String mukhPathApplication = '/mukhPathApplication';
+  static const String namavali = '/namavali';
+  static const String dailyKatha = '/dailyKatha';
+  static const String coin = '/coin';
+  static const String notification = '/notification';
+  static const String rewards = '/rewards';
+  static const String language = '/language';
+  static const String welcome = '/welcome';
+  static const String sandgrathAnushthanLesson = '/SandgrathAnushthanLesson';
+  static const String meaningMahimaHistory = '/MeaningMahimaHistory';
+  static const String aboutApp = '/AboutApp';
+
+}

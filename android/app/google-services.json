@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175638977390",
+    "project_id": "bhajanbank-21548",
+    "storage_bucket": "bhajanbank-21548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175638977390:android:968dc513fba6f1d3d4ff7f",
+        "android_client_info": {
+          "package_name": "com.bhajan.bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175638977390-jkqrr885l6morcmfse2473r64d6pr4i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf42UqUBqj_kWi4booDhyY_6hF22vmeTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175638977390-jkqrr885l6morcmfse2473r64d6pr4i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

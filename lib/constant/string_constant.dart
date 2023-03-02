@@ -1,0 +1,223 @@
+class AppStringConstants {
+  //     ======================= APP values =======================     //
+  static const String noInternet = 'Oops, NO Internet Connection';
+  static const String noInternetMsg =
+      'Make Sure wifi or cellular data is turned on and then try again.';
+  static const String noInternetGu = 'ઇન્ટરનેટ કનેક્શન નથી.';
+  static const String noInternetMsgGu = 'કૃપા કરી તમારા મોબાઈલમાં ઇન્ટરનેટનું જોડાણ ચકાસો.';
+  static const String profileText = 'કલાકુંજ મંદિર';
+  static const String profileName = 'Ghanshyam Pande';
+  static const String surname = 'Surname / અટક';
+  static const String name = 'Name / નામ';
+  static const String lastName = 'Last name / પિતા / પતિનું નામ';
+  static const String dateOfBirth = 'Date Of Birth / જન્મ તારીખ';
+  static const String plotNo = 'Plot No./ઘર નંબર';
+  static const String societyName = 'Plot no., soc. name / ઘર નં. સોસાયટી નામ';
+  static const String area = 'Area Name / એરિયાનું  નામ';
+  static const String age = 'Age / ઉંમર';
+  static const String country = 'Country /  દેશ';
+  static const String state = 'State /  રાજ્ય';
+  static const String city = 'City /  શહેર';
+  static const String pincode = 'Pincode /  પીનકોડ';
+  static const String emailAddress = 'E-mail id /  ઈ-મેઈલ આઈ ડી';
+  static const String male = 'Male (પુરુષ)';
+  static const String female = 'Female (સ્ત્રી)';
+  static const String niyamMsg =
+      'વ્હાલા ભક્તો..!\nઅમને રાજી કરવા ઓછામાં ઓછા ૫ નિયમ તો લેજો જ હો ને...';
+  static const String selectNiyamCount = '(1/  )';
+  static const String infoIconTitle = 'આ આઇકન શું કાર્ય કરે છે ?';
+  static const String editPhoneIconDesc =
+      'આ આઇકન મદદથી તમે એપ્લીકેશનમાં જ તમે તમારા નિયમ પૂર્ણ કરી શકો છો. જેમ કે. - મંત્રજાપ, મંત્રલેખન, વાંચન, વગેરે...';
+  static const String rightIconDesc = 'આ આઇકન દર્શાવે છે કે તમારા આજના નિયમ પૂર્ણ થઈ ગયા છે.';
+  static const String sadgranthPathCountOne = 'તમે નક્કી કરેલ સદગ્રંથના પાઠની સંખ્યા ( ';
+  static const String sadgranthPathCountTwo = ' ) માં લખો.';
+  static const String meaning = 'અર્થ';
+  static const String theGlory = 'મહિમા';
+  static const String history = 'ઈતિહાસ';
+  static const String niyamChestaTitle = 'શું તમે નિયમિતપણે ચેષ્ટા\nબોલવા માંગો છો ?';
+  static const String niyamChestaTitleSecond =
+      'શ્રીજી મહારાજના લીલાચરિત્રો તથા વિવિધ અંગોની 24\nકીર્તનો દ્વારા થતી સ્મૃતિ એટલે ચેષ્ટા.';
+  static const String niyamChestaTitleTh = 'rajatjayanti vishnu contnt lakhvu';
+  static const String week = 'Week';
+  static const String month = 'Month';
+  static const String year = 'Year';
+  static const String myReport = 'My Report';
+  static const String pleaseEnterDailyTarget = 'Please Enter Daily Target';
+  static const String number = '304';
+  static const String moreName = 'પ્રદક્ષિણા';
+  static const String next = '(Next)';
+  static const String achievement = 'Achievement';
+  static const String myAnnualTarget = 'My Annual Target';
+  static const String currentPath = 'Current Path';
+  static const String totalPath = 'Total Path';
+  static const String previous = '(Previous)';
+  static const String namePrevious = 'દંડવત';
+  static const String utshavNimite = 'ઉત્સવ નિમિત્તે';
+  static const String utshavNimite1 = '૩૧/૦૩/૨૦૨૪ સુધીનો  લક્ષ્ય';
+  static const String totalPath1 = 'કુલ પાઠ : 1૩00';
+  static const String visheMahit = 'વિશેષ માહિતી માટે';
+  static const String infoClick = ' (Info) પર ક્લિક કરો.';
+  static const String todayNiyam = 'TODAY’S NIYAM COMPLETED ?';
+  static const String myTotalCount = 'My Total Count (Day)';
+  static const String homeText = """અઠવાડિએ રજુ થતી ઘરસભાની PDF ફાઇલ મેળવવા
+અહીં ક્લિક કરો.""";
+  static const String choosePhoto = 'Choose a Photo ';
+  static const String photoLibrary = 'Photo Library';
+  static const String photoViewClick = 'ફોટા જોવા માટે અહી કિલક કરવું.';
+  static const String maharajThalPhoto = 'અહી મહારાજને થાળ ધરાવતો ફોટો મુકવો.';
+  static const String lunchPhoto = 'અહી સમૂહ ભોજનનો ફોટો મુકવો.';
+  static const String pleaseEnterImage = 'Please enter image..';
+  static const String photoGallery = 'Photo Gallery';
+  static const String shareTitle =
+      'Join our referral program and share your link link with your friend';
+  static const String drawerCopyrightText = 'Copyright @ 2022 KalakunjMandir.com';
+  static const String drawerPrivacyText = 'Privacy Policy | Terms and conditions';
+  static const String homeNiyamText = 'તમારા પસંદ કરેલ નિયમો';
+  static const String homeNiyamText1 = 'એપ્લીકેશન સંબંધિત નવીનતમ માહિતી';
+  static const String targetAchievement = 'Target & Achievement';
+  static const String overallTarget = 'Overall Target';
+  static const String coin = 'Coin';
+  static const String bonusCoin = 'Bonus Coin';
+  static const String congrats = 'Congrats!';
+  static const String earnedCoins = 'You earned 12580 Coins with bonus ';
+  static const String notificationText = 'તમારા આજના નિયમ પૂર્ણ થયા નથી તો જલ્દીથી તમે તમારા નિયમ પૂર્ણ કરો.';
+  static const String swamiNarayan = 'Jay Swaminarayan, Ghanshyam';
+  static const String now = 'Now';
+  static const String notificationString = 'આ આઇકન મદદથી તમે એપ્લીકેશનમાં જ તમે તમારા નિયમ પૂર્ણ કરી શકો છો. જેમ કે. - મંત્રજાપ, મંત્રલેખન, વાંચન, વગેરે...';
+  static const String rewardsText = 'અભિનંદન... મહારાજ અને સંતોનો રાજીપા \nરૂપે તમને અહી Coin મળે છે.';
+  static const String coin4 = '4 Coin';
+  static const String streak = '4 Day Streak!';
+  static const String streakWin = 'Congrats on using Bhajan Bank for \n4 days in a row';
+  static const String streakCoin = 'Streak Total Coin :';
+  static const String sadgramthVachna = 'સદગ્રંથ વાંચન';
+  static const String gujarati = 'ગુજરાતી';
+  static const String english = 'English';
+  static const String selectPraakran = 'સિલેક્ટ પ્રકરણ';
+  static const String noteVancham = 'નોંધ : વચનામૃત ક્રમશ: જ વાંચી શકાશે.';
+  static const String readButtonClick = 'બટન પર ક્લિક કરવાનું ભૂલશો નહિ.';
+  static const String allReadThen = 'સંપૂર્ણ વચનામૃત વાચ્યા બાદ Read';
+  static const String slide = 'Slide';
+  static const String scroll = 'Scroll';
+  static const String aa = 'Aa-';
+  static const String ab = 'Aa+';
+  static const String youYearTimeAll = 'તમારે વર્ષ દરમિયાન વાંચવાના કુલ વચનામૃત ';
+  static const String youRichMaxFontSize = 'You rich max font size';
+  static const String youRichMinFontSize = 'You rich min font size';
+  static const String youRichMaxLineHeight = 'You rich max line height';
+  static const String youRichMinLineHeight = 'You rich min line height';
+
+
+  //     ======================= Localization values =======================     //
+  static const String bhajanBank = 'bhajanBank';
+  static const String bhajanBankText = 'bhajanBankText';
+  static const String enterMobileNumber = 'enterMobileNumber';
+  static const String mobileError = 'mobileError';
+  static const String selectPhoneCode = 'selectPhoneCode';
+  static const String search = 'search';
+  static const String resendOtp = 'resendOtp';
+  static const String enterOtp = 'enterOtp';
+  static const String phoneVerification = 'phoneVerification';
+  static const String getOTPButton = 'getOTPButton';
+  static const String enterOTPVerify = 'enterOTPVerify';
+  static const String otpSendMobileNumber = 'otpSendMobileNumber';
+  static const String changeMobileNumber = 'changeMobileNumber';
+  static const String registration = 'registration';
+  static const String readNow = 'read Now';
+  static const String confirmation = 'confirmation';
+  static const String verifyButton = 'verifyButton';
+  static const String refresh = 'refresh';
+  static const String profile = 'profile';
+  static const String searchCountry = 'searchCountry';
+  static const String searchState = 'searchState';
+  static const String searchCity = 'searchCity';
+  static const String submit = 'submit';
+  static const String skip = 'skip';
+  static const String surnameError = 'surnameError';
+  static const String nameError = 'nameError';
+  static const String lastNameError = 'lastNameError';
+  static const String dobError = 'dobError';
+  static const String plotNoError = 'plotNoError';
+  static const String societyError = 'societyError';
+  static const String areaError = 'areaError';
+  static const String pincodeError = 'pincodeError';
+  static const String emailError = 'emailError';
+  static const String selectMember = 'selectMember';
+  static const String addMember = 'addMember';
+  static const String note = 'note';
+  static const String yes = 'yes';
+  static const String no = 'no';
+  static const String edit = 'edit';
+  static const String memberDeleteMsg = 'memberDeleteMsg';
+  static const String memberDeleteMsgDesc = 'memberDeleteMsgDesc';
+  static const String selectNiyam = 'selectNiyam';
+  static const String yourSelectNiyam = 'yourSelectNiyam';
+  static const String noDataFound = 'noDataFound';
+  static const String niyamDeleteMsg = 'niyamDeleteMsg';
+  static const String niyamDeleteMsgDesc = 'niyamDeleteMsgDesc';
+  static const String information = 'information';
+  static const String watchNow = 'watchNow';
+  static const String save = 'save';
+  static const String home = 'Home';
+  static const String one = '1';
+  static const String dailyDarshan = 'Daily Darshan';
+  static const String mantrajap = 'Mantrajap';
+  static const String liveKatha = 'Live Katha  ( Youtube )';
+  static const String gharsabha = 'Gharsabha';
+  static const String books = 'Books';
+  static const String topUsers = 'Top Users';
+  static const String downloads = 'Downloads';
+  static const String aboutApp = 'About App';
+  static const String aboutUs = 'About Us';
+  static const String otherApps = 'Other Apps';
+  static const String shareApps = 'Share Apps';
+  static const String addMember1 = 'Add Member';
+  static const String logOut = 'Log Out';
+  static const String rajatJayantiMahotsav = 'rajatJayantiMahotsav';
+  static const String yourActivity = 'yourActivity';
+  static const String myDaily = 'MyDaily';
+  static const String target = 'Target';
+  static const String myAnnual = 'myAnnual';
+  static const String reset = 'reset';
+  static const String back = 'back';
+  static const String occasionOfFestival = 'ઉત્સવ નિમિત્તે';
+  static const String numberOfLessonRemaining = 'numberOfLessonRemaining';
+  static const String everyDayAchieveYourGoal = 'everyDayAchieveYourGoal';
+  static const String readThePledge = 'readThePledge';
+  static const String specialInformation = 'specialInformation';
+  static const String clickOnInfo = 'clickOnInfo';
+  static const String clickToWatchVideoStunner = 'clickToWatchVideoStunner';
+  static const String daily = 'daily';
+  static const String monthly = 'monthly';
+  static const String yearly = 'yearly';
+  static const String earnedTotalCoin = 'earnedTotalCoin';
+  static const String notification = 'notification';
+  static const String rewards = 'rewards';
+  static const String specialRewards = 'specialRewards';
+  static const String youEarn = 'youEarn';
+  static const String topTenUser = 'topTenUser';
+  static const String otherBooks = 'otherBooks';
+  static const String searchAge = 'searchAge';
+  static const String nextSimple = 'next';
+  static const String selectLanguage = 'selectLanguage';
+  static const String logoutText = 'logoutText';
+  static const String addMalaDesc = 'addMalaDesc';
+  static const String day = 'day';
+  static const String hours = 'hours';
+  static const String minute = 'minute';
+  static const String second = 'second';
+  static const String validEmail = 'validEmail';
+
+  //     ======================= APP Url =======================     //
+  static const String youtubeUrl = 'https://www.youtube.com/@KalakunjMandir';
+  static const String instagramUrl = 'https://www.instagram.com/kalakuj__madiar_/';
+  static const String facebookUrl = 'https://www.facebook.com/Kalakunj-Mandir-1505813716160964/';
+
+  static String sadgranthTarget(date) {
+    return "ઉત્સવ નિમિત્તે $date સુધીનો લક્ષ્ય";
+  }
+}
+
+  //    ========================== first letter capital in word ===============     //
+extension StringCasingExtension on String {
+  String toCapitalized() => length > 0 ? '${this[0].toUpperCase()}${substring(1).toLowerCase()}' : '';
+}
